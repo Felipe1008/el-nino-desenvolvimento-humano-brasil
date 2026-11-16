@@ -91,7 +91,7 @@ Para executar o projeto localmente, é necessário possuir Python instalado.
 ### 6.1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/el-nino-desenvolvimento-humano-brasil.git
+git clone https://github.com/Felipe1008/el-nino-desenvolvimento-humano-brasil.git
 ```
 
 ### 6.2. Acessar o diretório
