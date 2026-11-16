@@ -118,7 +118,11 @@ Ativação no Windows:
 pip install -r requirements.txt
 ```
 
-### 6.5. Executar os scripts
+### 6.5. Caminhar para a pasta src/ e Executar os scripts
+
+```bash
+cd .\src\
+```
 
 Os scripts estão organizados por etapas de processamento. A sequência prevista é:
 
@@ -127,7 +131,11 @@ Os scripts estão organizados por etapas de processamento. A sequência prevista
 3. Validação dos dados.
 4. Análise dos dados.
 
-Os comandos específicos de execução devem seguir as configurações e os caminhos definidos nos respectivos scripts.
+Execute o comando de execução para cada um desses arquivos, exemplo:
+
+```bash
+python 01_extract.py
+```
 
 ## 7. Resultados
 
